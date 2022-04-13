@@ -57,6 +57,7 @@
 <v t="leo.20180115115910.1"><vh>2020</vh>
 <v t="leo.20180423103639.1"><vh>2020 Fall CP 課程</vh>
 <v t="leo.20180423103656.1"><vh>@edit 20200813.md</vh></v>
+<v t="leo.20220413200234.1"><vh>w7_summary </vh></v>
 </v>
 </v>
 </v>
@@ -88,6 +89,28 @@ g.es("admin pelican Github 執行完畢")
 <t tx="leo.20180115093726.1"></t>
 <t tx="leo.20180115115910.1"></t>
 <t tx="leo.20180423103639.1"></t>
+<t tx="leo.20220413200234.1">@language md
+---
+Title: 40923122
+Date: 2020-08-13 11:00
+Category: Misc
+Tags: 2020FallCP
+Slug: w6_40923122.html
+---
+
+2020 Fall 計算機程式的教學主要介紹 Python 與 Flutter 在機械設計流程中的應用.
+
+&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+1.如何集結各大組組員在各週所完成的工作進度?
+各組員整理好進度像駔長報備後上傳
+
+
+2.為何要在大組倉儲中建立 Reveal 投影片與 Pelican Blog? (git blame 用法)
+使組員更能了解適用方法
+
+可以利用 Leo Editor 延續開發 scarysim 程式功能嗎? (與 VScode 比較, 或者直接在 VScode 中使用 Leo Editor, leointeg)
+因為是第一次接觸還在研究</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
