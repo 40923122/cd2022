@@ -91,14 +91,15 @@ g.es("admin pelican Github 執行完畢")
 <t tx="leo.20180423103639.1"></t>
 <t tx="leo.20220413200234.1">@language md
 ---
-Title: 40923122
+Title: W7
 Date: 2020-08-13 11:00
 Category: Misc
-Tags: 2020FallCP
-Slug: w6_40923122.html
+Tags: 2020SpringCD
+Slug: w7_summary.html
+Author:40923122
 ---
 
-2020 Fall 計算機程式的教學主要介紹 Python 與 Flutter 在機械設計流程中的應用.
+2020 Spring 協同產品設計實習
 
 &lt;!-- PELICAN_END_SUMMARY --&gt;
 
