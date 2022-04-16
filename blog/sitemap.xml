@@ -5,29 +5,36 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./</loc>
-<lastmod>2022-04-13T21:26:46-00:00</lastmod>
+<lastmod>2022-04-16T14:13:38-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./archives.html</loc>
-<lastmod>2022-04-13T21:26:46-00:00</lastmod>
+<lastmod>2022-04-16T14:13:38-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tags.html</loc>
-<lastmod>2022-04-13T21:26:46-00:00</lastmod>
+<lastmod>2022-04-16T14:13:38-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./categories.html</loc>
-<lastmod>2022-04-13T21:26:46-00:00</lastmod>
+<lastmod>2022-04-16T14:13:38-00:00</lastmod>
 <changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./midterm.html.html</loc>
+<lastmod>2022-04-16T14:11:36+08:00</lastmod>
+<changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
@@ -47,14 +54,14 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./category/misc.html</loc>
-<lastmod>2022-04-13T21:26:40+08:06</lastmod>
+<lastmod>2022-04-16T14:11:36+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tag/2020springcd.html</loc>
-<lastmod>2022-04-13T21:26:40+08:06</lastmod>
+<lastmod>2022-04-16T14:11:36+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -68,7 +75,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./author/40923122.html</loc>
-<lastmod>2022-04-13T21:26:40+08:06</lastmod>
+<lastmod>2022-04-16T14:11:36+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
