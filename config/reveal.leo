@@ -215,27 +215,43 @@ vertical: body pane on the botton</t>
 &lt;a href="https://github.com/40923148/cd2022_ag3"&gt;分組倉儲&lt;/a&gt;
 &lt;/br&gt;
 組長:&lt;a href="https://github.com/40923148/cd2022/"&gt;張煒中&lt;/a&gt;
-
-
-
+組員:&lt;a href="https://github.com/CYC40923109/cd2022/"&gt;周玥晨&lt;/a&gt;
+&lt;a href="https://github.com/40923111/cd2022/"&gt;方冠勳&lt;/a&gt;
+&lt;/br&gt;
+&lt;a href="https://github.com/40923114/cd2022/"&gt;江亦德&lt;/a&gt;
+&lt;a href="https://github.com/40923115/cd2022/"&gt;吳圳吉&lt;/a&gt;
+&lt;a href="https://github.com/40923122/cd2022/"&gt;周育德&lt;/a&gt;
+&lt;a href="https://github.com/40923111/cd2029/"&gt;林泰宇&lt;/a&gt;
+&lt;a href="https://github.com/40923146/cd2022/"&gt;張智程&lt;/a&gt;
+&lt;/p&gt;
 
 &lt;/section&gt;
 
 
 </t>
 <t tx="leo.20200818170535.1">&lt;section&gt;
-    &lt;h2&gt;Hello There&lt;/h2&gt;
+    &lt;h2&gt;程式分配&lt;/h2&gt;
     &lt;p&gt;
-        reveal.js enables you to create beautiful interactive slide decks using HTML. This presentation will show you examples of what it can do.
+NX:40923111 40923122 4023146
+
+Onshape:40923115 40923114
+
+Solvespace:40923109 40923148 40923129
+
+
     &lt;/p&gt;
 &lt;/section&gt;
 
 </t>
-<t tx="leo.20200818170636.1">&lt;!-- Example of nested vertical slides --&gt;
-&lt;section&gt;
-    @others
+<t tx="leo.20200818170636.1">&lt;section&gt;
+    &lt;h2&gt;W8心得&lt;/h2&gt;
+    &lt;p&gt;
+心得:我分配到的是NX，首先我們都先將零件畫好後，
+組合完成，轉成STL匯入CoppeliaSim後雖然嘗試操作前
+三軸但我不太熟悉怎麼操作，所以沒有弄出來，但是
+零件圖與組合圖均有完成。
+    &lt;/p&gt;
 &lt;/section&gt;
-
 </t>
 <t tx="leo.20200818170725.1">&lt;section&gt;
     &lt;h2&gt;Slides&lt;/h2&gt;
